@@ -1,0 +1,321 @@
+
+//Vitalik Buterin's Blog 
+
+What is the planned fault tollerance for Casper FFG?
+
++++ <details><summary> +++
+    Answer
+    +++ </summary><div> +++
+----
+33% fault tolerance or 66% bad actors. 
+----
++++ </div></details> +++
+
+
+What is Vitalik's main critic of voting as a blockchain governance tool?
+
++++ <details><summary> +++
+Context
++++ </summary><div> +++
+----
+ Loosely coupled coin voting is a form of blockchain governance which equates coins with votes. Although, more commonly associated with DPOS systems, Ethereum has a history of voting for blockchain governance e.g. The DAO proposal votes. 
+----
++++ </div></details> +++
+
++++ <details><summary> +++
+Answer
++++ </summary><div> +++
+----
+Poor Voter Participation
+----
++++ </div></details> +++
+
+
+What problem does Ethereum solve with staking by requing people place their Ether at risk?
+
+//long range attack
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+The nothing at stake problem
+----
++++ </div></details> +++
+
+//OpenZeppelin 
+
+Which keyword is used in Solidity to ensure that a condition is true before execution. 
+
+[small]
+----
+hint: The keyword's arguments are required 
+----
+
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Require()
+----
++++ </div></details> +++
+    
+
+Where are Ethereum's smart contracts run? 
+ 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+The Ethereum Virtual Machine
+----
++++ </div></details> +++
+
+//ConsenSys +
+
+Which Ethereum Cofounder also founded the Blockchain accelrator, incubator and technology company ConcenSys? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Joseph Lubin
+----
++++ </div></details> +++
+
+What is ConsenSys Catalyst? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Catalyst is the full-service marketing and branding agency. Their mission is to catalyze the growth of blockchain companies. 
+----
++++ </div></details> +++
+
+What is ConsenSys Labs? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+ ConsenSys Labs incubates the best teams of Web3 across the globe, providing them capital, mentorship, and access to ConsenSys’s network of top-tier projects and talent.
+
+ Noteworthy contributions include:
+
+ .MetaMask
+ .Truffle
+ .BTCRelay
+
+----
++++ </div></details> +++
+
+//BlockChannel +
+
+Augur is an betting platform built on Ethereum that allows you to bet on what?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+future events
+----
++++ </div></details> +++
+
+Which popular cryptocurrency uses zero-knowledge proofs to anonymously send transactions? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Zcash
+
+----
++++ </div></details> +++
+
+Which popular stablecoin uses gametheory, colatoralised debt positions, leveraged trading and token burning to maintain a price of $1 USD
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+MakerDao
+
+----
++++ </div></details> +++
+
+//Epicenter 
+
+Is Karl Floersch an Ethereum Cofounder? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+No Karl is just a popular dev.
+
+----
++++ </div></details> +++
+
+
+What is Sweetbridge? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Sweetbridge acts as a sort of OSI model for global business. In the Sweetbridge economy, working capital is freed up by enabling individuals and organizations to borrow from themselves interest-free.Sweetbirdge is used to collateralize assets and borrow money on the blockchain.
+
+----
++++ </div></details> +++
+
+What is Rchain? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+A blockchain running a concurrent virtual machine that is sharded at a network level. Powered by the Rho Virtual Machine, and secured by Casper proof-of-stake, Greg Meredith  and the Rchain coop aim to produce a concurrent, compositional, and massively scalable blockchain.
+----
++++ </div></details> +++
+
+//Coindesk +
+
+Filesharing company Bittorrent has partnered with which major cryptocurrency? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+Tron
+----
++++ </div></details> +++
+
+Who are the three stakeholder groups in Bitcoin?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+The Developers
+The Miners 
+The Coin Holders
+----
++++ </div></details> +++
+
+In theory, which group of stakeholders has the most power in Bitcoin?
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+----
+All stakeholders are equal
+----
++++ </div></details> +++
+
+//ETH Research +
+
+What is a BLS signature? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+It stands for Boneh–Lynn–Shacham. BLS signatures are Cryptography that allows a user to verify that a signature (signed with private keys) is legitiamte. BLS signatures use Elliptic curve maths, and share other similarities with schnorr signatures.
+----
++++ </div></details> +++
+
+Does Ethereum Use The GHOST protocol? 
+
++++ <details><summary> +++
+Answer 
++++ </summary><div> +++
+---- 
+The GHOST protocol as it was described, originally included uncle blocks to determine the longest chain. The addition of these uncle blocks means that concensus was actually arrived at by evaluating the Greedy Heaviest Observed Subtree, which is what GHOST stands for. Interestingly, Ethereum abandoned GHOST early on. While uncle blocks still get a mining reward, they are not used when determining the longest chain. 
+----
++++ </div></details> +++
+
+What is the name of the Plasma implimentation where deposits on the plasma chain corrispond to a unique coin ID?
+
+Answer 
++++ </summary><div> +++
+---- 
+Plasma Cash
+----
++++ </div></details> +++
+
+//Hacking, Distributed +
+
+Emin Gün Sirer is working on what consensus protocol with the anonymous Team Rocket? 
+
+Answer 
++++ </summary><div> +++
+---- 
+Avalanche
+----
++++ </div></details> +++
+
+What is Falcon? 
+
+Answer 
++++ </summary><div> +++
+---- 
+Falcon is a novel, fast relay network for disseminating Bitcoin blocks. It connects miners and full nodes and ferries blocks using a novel technique to reduce orphans. 
+----
++++ </div></details> +++
+
+What underlying blockchain protocol does Waves use in their hybrid POS/POW network? 
+
+Answer 
++++ </summary><div> +++
+---- 
+Bitcoin-NG
+----
++++ </div></details> +++
+
+//Unenumerated +
+
+What is the name of an admisitrator who can control or modify anything on the full trust architecture of traditional servers?
+
+Answer 
++++ </summary><div> +++
+---- 
+Root
+----
++++ </div></details> +++
+
+A block chain can hold cryptocurrency as collateral (like an escrow) which incentivizes off-chain performance that can be verified on-chain. What is the off-chain actor often called? 
+
+Answer 
++++ </summary><div> +++
+---- 
+An Oracle
+----
++++ </div></details> +++
+
+Wet code is a name given to code, logic and procedures interpreted by humans. The law, for example is open to interpretation and therefor wet code. What is immutable code that's interpreted by a computer called?
+
+Answer 
++++ </summary><div> +++
+---- 
+Dry Code
+----
++++ </div></details> +++
+
+Nick Szabo is rumoured to be which anonymous cryptocurrency founder? 
+
+Answer 
++++ </summary><div> +++
+---- 
+Satoshi Nakamoto
+----
++++ </div></details> +++
+
+//Chris Burniske +
+
+ARKInvest was the first public 
+
+
+//Great Wall of Numbers
